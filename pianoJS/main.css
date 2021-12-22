@@ -1,0 +1,38 @@
+
+.keydrum {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15%;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+.key {
+    display: block;
+    border: 3px solid rgb(73, 72, 72);
+    width: 100px;
+    border-radius: 5px;
+    transition: all, 0.07s;
+}
+
+.sound {
+    display: block;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    color: yellow;
+}
+
+kbd {
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    color: cornsilk;
+}
+
+.playing {
+    transform :scale(1);
+    border-color: yellowgreen;
+    box-shadow: 0 0 10px yellowgreen;
+}
