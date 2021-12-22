@@ -1,0 +1,21 @@
+
+
+
+:root {
+    --base-color:rgb(214, 164, 164);
+    --blur:2px;
+    --spacing:10px;
+}
+
+
+body {
+    text-align: center;
+    font-size: 15px;
+    background-color: turquoise;
+}
+
+img {
+   padding: var(--spacing);
+   background-color: var(--base-color);
+   filter: blur(var(--blur));
+}
