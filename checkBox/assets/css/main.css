@@ -1,0 +1,18 @@
+
+.inbox {
+    display: block;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    height: 60px;
+    width: 200px;
+    border: 2px solid rgb(116, 115, 115);
+}
+
+input {
+   align-items: center;
+   margin: 10px;
+}
