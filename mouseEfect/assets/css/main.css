@@ -1,0 +1,16 @@
+.hero {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+div {
+
+}
+
+h1 {
+    text-shadow: 10px 10px 2px rgb(104, 102, 102);
+    font-size: 100px;
+}

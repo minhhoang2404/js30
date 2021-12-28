@@ -1,0 +1,16 @@
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.formItem {
+    width: 80%;
+}
+
+.plates {
+    width: 100%;
+    display: block;
+}

@@ -1,0 +1,15 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    background: aquamarine;
+    font-family: Helvetica;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.words {
+    max-width: 200px;
+    margin: 50px auto;
+}
